@@ -1,0 +1,4 @@
+all: bubble
+
+bubble: bubble.c
+	gcc bubble.c -o bubble

@@ -1,0 +1,4 @@
+all: bubble
+
+bubble: bubble.go
+	go build bubble.go
